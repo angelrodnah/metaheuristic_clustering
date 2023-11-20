@@ -25,6 +25,6 @@ setup(
     python_requires='>=3.7',
     packages=['metaheuristic_clustering'],
     package_dir={'': 'src'},
-    install_requires=['pyclustering', 'sklearn', 'numpy'],
+    install_requires=['pyclustering', 'scikit-learn', 'numpy'],
     url="https://github.com/ElizabethForest/metaheuristic_clustering"
 )

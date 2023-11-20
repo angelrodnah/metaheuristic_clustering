@@ -1,0 +1,823 @@
+[
+    {
+        "label": "random_center_initializer",
+        "importPath": "pyclustering.cluster.center_initializer",
+        "description": "pyclustering.cluster.center_initializer",
+        "isExtraImport": true,
+        "detail": "pyclustering.cluster.center_initializer",
+        "documentation": {}
+    },
+    {
+        "label": "random_center_initializer",
+        "importPath": "pyclustering.cluster.center_initializer",
+        "description": "pyclustering.cluster.center_initializer",
+        "isExtraImport": true,
+        "detail": "pyclustering.cluster.center_initializer",
+        "documentation": {}
+    },
+    {
+        "label": "random_center_initializer",
+        "importPath": "pyclustering.cluster.center_initializer",
+        "description": "pyclustering.cluster.center_initializer",
+        "isExtraImport": true,
+        "detail": "pyclustering.cluster.center_initializer",
+        "documentation": {}
+    },
+    {
+        "label": "random_center_initializer",
+        "importPath": "pyclustering.cluster.center_initializer",
+        "description": "pyclustering.cluster.center_initializer",
+        "isExtraImport": true,
+        "detail": "pyclustering.cluster.center_initializer",
+        "documentation": {}
+    },
+    {
+        "label": "ClusterMixin",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseEstimator",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "ClusterMixin",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseEstimator",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "ClusterMixin",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseEstimator",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "ClusterMixin",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseEstimator",
+        "importPath": "sklearn.base",
+        "description": "sklearn.base",
+        "isExtraImport": true,
+        "detail": "sklearn.base",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "cycle",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "islice",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "cycle",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "islice",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "datasets",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "datasets",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "ABCClustering",
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "isExtraImport": true,
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABCClustering",
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "isExtraImport": true,
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "SFLAClustering",
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "isExtraImport": true,
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "ABCClustering",
+        "kind": 6,
+        "importPath": "build.lib.metaheuristic_clustering.abc",
+        "description": "build.lib.metaheuristic_clustering.abc",
+        "peekOfCode": "class ABCClustering(BaseEstimator, ClusterMixin):\n    \"\"\"\n    Creates clusters based on the Artificial Bee Colony optimisation algorithm\n    Karaboga and C. Ozturk, \"A novel clustering approach: Artificial Bee Colony (ABC) algorithm,\" Applied soft computing\n    Also based on an implementation by: https://github.com/ntocampos/artificial-bee-colony\n    \"\"\"\n    def __init__(self, num_bees=30, num_of_clusters=3, max_iterations=50, metric='euclidean', discard_limit=20):\n        \"\"\"\n        :param num_bees: the number of bees  - this is the number of potential solutions to be considered at one time\n        :param num_of_clusters: the number of clusters to be created (k)",
+        "detail": "build.lib.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "new_bee",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.abc",
+        "description": "build.lib.metaheuristic_clustering.abc",
+        "peekOfCode": "def new_bee(centroids, fit):\n    new_fitness = 1 / (1 + fit)\n    return {\"centroids\": centroids,\n            \"fit\": fit,\n            \"fitness\": new_fitness,\n            \"discards\": 0}\ndef generate_bee(data, num_of_clusters, metric):\n    centroids = rand_init(data, num_of_clusters).initialize()  # can also use k_init for kmeans++ initalisation\n    fit = fitness(data, centroids, metric)\n    return new_bee(centroids, fit)",
+        "detail": "build.lib.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "generate_bee",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.abc",
+        "description": "build.lib.metaheuristic_clustering.abc",
+        "peekOfCode": "def generate_bee(data, num_of_clusters, metric):\n    centroids = rand_init(data, num_of_clusters).initialize()  # can also use k_init for kmeans++ initalisation\n    fit = fitness(data, centroids, metric)\n    return new_bee(centroids, fit)\ndef generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_bee(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef generate_new_centroids(original, updater, dimensions):\n    phi = np.random.uniform(-1, 1, dimensions)\n    return original[\"centroids\"] + (phi * np.subtract(original[\"centroids\"], updater[\"centroids\"]))\ndef update_bee(bee, k, dimensions, data, metric):",
+        "detail": "build.lib.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "generate_population",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.abc",
+        "description": "build.lib.metaheuristic_clustering.abc",
+        "peekOfCode": "def generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_bee(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef generate_new_centroids(original, updater, dimensions):\n    phi = np.random.uniform(-1, 1, dimensions)\n    return original[\"centroids\"] + (phi * np.subtract(original[\"centroids\"], updater[\"centroids\"]))\ndef update_bee(bee, k, dimensions, data, metric):\n    new_centroids = generate_new_centroids(bee, k, dimensions)\n    new_fit = fitness(data, new_centroids, metric)\n    if new_fit < bee[\"fit\"]:\n        bee = new_bee(new_centroids, new_fit)",
+        "detail": "build.lib.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "generate_new_centroids",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.abc",
+        "description": "build.lib.metaheuristic_clustering.abc",
+        "peekOfCode": "def generate_new_centroids(original, updater, dimensions):\n    phi = np.random.uniform(-1, 1, dimensions)\n    return original[\"centroids\"] + (phi * np.subtract(original[\"centroids\"], updater[\"centroids\"]))\ndef update_bee(bee, k, dimensions, data, metric):\n    new_centroids = generate_new_centroids(bee, k, dimensions)\n    new_fit = fitness(data, new_centroids, metric)\n    if new_fit < bee[\"fit\"]:\n        bee = new_bee(new_centroids, new_fit)\n    else:\n        bee[\"discards\"] += 1",
+        "detail": "build.lib.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "update_bee",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.abc",
+        "description": "build.lib.metaheuristic_clustering.abc",
+        "peekOfCode": "def update_bee(bee, k, dimensions, data, metric):\n    new_centroids = generate_new_centroids(bee, k, dimensions)\n    new_fit = fitness(data, new_centroids, metric)\n    if new_fit < bee[\"fit\"]:\n        bee = new_bee(new_centroids, new_fit)\n    else:\n        bee[\"discards\"] += 1\n    return bee\ndef abc(data, num_bees=30, num_of_clusters=3, max_iterations=50, metric='euclidean', discard_limit=20):\n    \"\"\"",
+        "detail": "build.lib.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "abc",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.abc",
+        "description": "build.lib.metaheuristic_clustering.abc",
+        "peekOfCode": "def abc(data, num_bees=30, num_of_clusters=3, max_iterations=50, metric='euclidean', discard_limit=20):\n    \"\"\"\n    :param data: the data to be clustered\n    :param num_bees: the number of bees  - this is the number of potential solutions to be considered at one time\n    :param num_of_clusters: the number of clusters (k)\n    :param max_iterations: the max number of iterations\n    :param metric: can only be Euclidean distance atm\n    :param discard_limit: the max number of times for a bee to not improve before being re-created\n    :return: The best solution after the max number of iterations\n    \"\"\"",
+        "detail": "build.lib.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "SFLAClustering",
+        "kind": 6,
+        "importPath": "build.lib.metaheuristic_clustering.sfla",
+        "description": "build.lib.metaheuristic_clustering.sfla",
+        "peekOfCode": "class SFLAClustering(BaseEstimator, ClusterMixin):\n    \"\"\"\n    Creates clusters based on the Shuffled Frog Leaping Algorithm\n    Based on the paper:\n    M. Fathian, B. Amiri, and A. Maroosi, \"Application of honey-bee mating optimization algorithm on clustering,\"\n    Applied Mathematics and Computation, vol. 190, no. 2, pp. 1502-1513, 2007 2007.\n    And referenced implementations:\n    https://github.com/theDIG95/Shuffled-frog-leaping-algorithm/\n    https://github.com/LubnaAlhenaki/Genetic-Frog-Leaping-Algorithm-for-Text-Document-Clustering/\n    \"\"\"",
+        "detail": "build.lib.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "generate_frog",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.sfla",
+        "description": "build.lib.metaheuristic_clustering.sfla",
+        "peekOfCode": "def generate_frog(data, num_of_clusters, metric):\n    centroids = rand_init(data, num_of_clusters).initialize()  # can also use k_init for kmeans++ initalisation\n    fit = fitness(data, centroids, metric)\n    # Todo: give it a uuid for determine if same frog is best multiple times\n    return {\"centroids\": centroids,\n            \"fit\": fit}\ndef generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_frog(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef rank_frogs(frogs):\n    sorted_acs = sorted(frogs, key=lambda k: k[\"fit\"])",
+        "detail": "build.lib.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "generate_population",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.sfla",
+        "description": "build.lib.metaheuristic_clustering.sfla",
+        "peekOfCode": "def generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_frog(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef rank_frogs(frogs):\n    sorted_acs = sorted(frogs, key=lambda k: k[\"fit\"])\n    return sorted_acs\ndef create_memeplexes(frogs, num_of_memeplexes):\n    ranked_frogs = rank_frogs(frogs)\n    return ranked_frogs[0], [ranked_frogs[i::num_of_memeplexes] for i in range(num_of_memeplexes)]\ndef evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]",
+        "detail": "build.lib.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "rank_frogs",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.sfla",
+        "description": "build.lib.metaheuristic_clustering.sfla",
+        "peekOfCode": "def rank_frogs(frogs):\n    sorted_acs = sorted(frogs, key=lambda k: k[\"fit\"])\n    return sorted_acs\ndef create_memeplexes(frogs, num_of_memeplexes):\n    ranked_frogs = rank_frogs(frogs)\n    return ranked_frogs[0], [ranked_frogs[i::num_of_memeplexes] for i in range(num_of_memeplexes)]\ndef evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]\n    best_centroids = best_frog[\"centroids\"]\n    new_centroids = worst_centroids + (np.random.rand() * np.subtract(best_centroids, worst_centroids))",
+        "detail": "build.lib.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "create_memeplexes",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.sfla",
+        "description": "build.lib.metaheuristic_clustering.sfla",
+        "peekOfCode": "def create_memeplexes(frogs, num_of_memeplexes):\n    ranked_frogs = rank_frogs(frogs)\n    return ranked_frogs[0], [ranked_frogs[i::num_of_memeplexes] for i in range(num_of_memeplexes)]\ndef evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]\n    best_centroids = best_frog[\"centroids\"]\n    new_centroids = worst_centroids + (np.random.rand() * np.subtract(best_centroids, worst_centroids))\n    fit = fitness(data, new_centroids, metric)\n    return {\"centroids\": new_centroids, \"fit\": fit}\ndef sfla(data, num_of_frogs=30, num_of_clusters=3, num_of_memeplexes=5, memeplex_iterations=10, max_iterations=50,",
+        "detail": "build.lib.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "evolve",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.sfla",
+        "description": "build.lib.metaheuristic_clustering.sfla",
+        "peekOfCode": "def evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]\n    best_centroids = best_frog[\"centroids\"]\n    new_centroids = worst_centroids + (np.random.rand() * np.subtract(best_centroids, worst_centroids))\n    fit = fitness(data, new_centroids, metric)\n    return {\"centroids\": new_centroids, \"fit\": fit}\ndef sfla(data, num_of_frogs=30, num_of_clusters=3, num_of_memeplexes=5, memeplex_iterations=10, max_iterations=50,\n         metric='euclidean'):\n    \"\"\"\n    :param data:",
+        "detail": "build.lib.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "sfla",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.sfla",
+        "description": "build.lib.metaheuristic_clustering.sfla",
+        "peekOfCode": "def sfla(data, num_of_frogs=30, num_of_clusters=3, num_of_memeplexes=5, memeplex_iterations=10, max_iterations=50,\n         metric='euclidean'):\n    \"\"\"\n    :param data:\n    :param num_of_frogs: Total number of frogs (F)\n    :param num_of_clusters: How many clusters are desired (k)\n    :param num_of_memeplexes: Number of memeplexes (m)\n    :param memeplex_iterations: Number of memeplex iterations (iN)\n    :param max_iterations: Maximum number of iterations before the algorithm will terminate\n    :param metric: possible values: euclidean",
+        "detail": "build.lib.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "get_euclidean_distance",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.util",
+        "description": "build.lib.metaheuristic_clustering.util",
+        "peekOfCode": "def get_euclidean_distance(row, centroids):\n    \"\"\" Calculates the euclidean distance between a row and each centroid \"\"\"\n    return [np.linalg.norm(row - centroid) for centroid in centroids]\ndef get_centroid_labels(data, centroids):\n    \"\"\" Assigns each data point to its closest centroid based on euclidean distance \"\"\"\n    labels = []\n    for row in data:\n        distances = get_euclidean_distance(row, centroids)\n        min_distance = min(distances)\n        index = distances.index(min_distance)",
+        "detail": "build.lib.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_centroid_labels",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.util",
+        "description": "build.lib.metaheuristic_clustering.util",
+        "peekOfCode": "def get_centroid_labels(data, centroids):\n    \"\"\" Assigns each data point to its closest centroid based on euclidean distance \"\"\"\n    labels = []\n    for row in data:\n        distances = get_euclidean_distance(row, centroids)\n        min_distance = min(distances)\n        index = distances.index(min_distance)\n        labels.append(index)\n    return labels\ndef get_labels(data, element):",
+        "detail": "build.lib.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_labels",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.util",
+        "description": "build.lib.metaheuristic_clustering.util",
+        "peekOfCode": "def get_labels(data, element):\n    return get_centroid_labels(data, element[\"centroids\"])\ndef euclidean_fitness(data, centroids):\n    \"\"\" Calculates the average distance between each data point and it's closest cluster center \"\"\"\n    total_distance = 0\n    dimensions = data.shape[1]\n    for row in data:\n        # calculate the euclidean distance between each row and each centroid\n        distances = get_euclidean_distance(row, centroids)\n        # use the centroid the row is closest to",
+        "detail": "build.lib.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "euclidean_fitness",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.util",
+        "description": "build.lib.metaheuristic_clustering.util",
+        "peekOfCode": "def euclidean_fitness(data, centroids):\n    \"\"\" Calculates the average distance between each data point and it's closest cluster center \"\"\"\n    total_distance = 0\n    dimensions = data.shape[1]\n    for row in data:\n        # calculate the euclidean distance between each row and each centroid\n        distances = get_euclidean_distance(row, centroids)\n        # use the centroid the row is closest to\n        total_distance += min(distances)\n    # get the average distance",
+        "detail": "build.lib.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "fitness",
+        "kind": 2,
+        "importPath": "build.lib.metaheuristic_clustering.util",
+        "description": "build.lib.metaheuristic_clustering.util",
+        "peekOfCode": "def fitness(data, centroids, metric):\n    \"\"\"\n    Calculates how well a set of centroids fit a data set based on a metric\n    Currently only supports Euclidean distance - the average distance between each data point and it's closest cluster center\n    \"\"\"\n    fit = None\n    if metric == 'euclidean':\n        fit = euclidean_fitness(data, centroids)\n    return fit",
+        "detail": "build.lib.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "ABCClustering",
+        "kind": 6,
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "peekOfCode": "class ABCClustering(BaseEstimator, ClusterMixin):\n    \"\"\"\n    Creates clusters based on the Artificial Bee Colony optimisation algorithm\n    Karaboga and C. Ozturk, \"A novel clustering approach: Artificial Bee Colony (ABC) algorithm,\" Applied soft computing\n    Also based on an implementation by: https://github.com/ntocampos/artificial-bee-colony\n    \"\"\"\n    def __init__(self, num_bees=30, num_of_clusters=3, max_iterations=50, metric='euclidean', discard_limit=20):\n        \"\"\"\n        :param num_bees: the number of bees  - this is the number of potential solutions to be considered at one time\n        :param num_of_clusters: the number of clusters to be created (k)",
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "new_bee",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "peekOfCode": "def new_bee(centroids, fit):\n    new_fitness = 1 / (1 + fit)\n    return {\"centroids\": centroids,\n            \"fit\": fit,\n            \"fitness\": new_fitness,\n            \"discards\": 0}\ndef generate_bee(data, num_of_clusters, metric):\n    centroids = rand_init(data, num_of_clusters).initialize()  # can also use k_init for kmeans++ initalisation\n    fit = fitness(data, centroids, metric)\n    return new_bee(centroids, fit)",
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "generate_bee",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "peekOfCode": "def generate_bee(data, num_of_clusters, metric):\n    centroids = rand_init(data, num_of_clusters).initialize()  # can also use k_init for kmeans++ initalisation\n    fit = fitness(data, centroids, metric)\n    return new_bee(centroids, fit)\ndef generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_bee(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef generate_new_centroids(original, updater, dimensions):\n    phi = np.random.uniform(-1, 1, dimensions)\n    return original[\"centroids\"] + (phi * np.subtract(original[\"centroids\"], updater[\"centroids\"]))\ndef update_bee(bee, k, dimensions, data, metric):",
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "generate_population",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "peekOfCode": "def generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_bee(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef generate_new_centroids(original, updater, dimensions):\n    phi = np.random.uniform(-1, 1, dimensions)\n    return original[\"centroids\"] + (phi * np.subtract(original[\"centroids\"], updater[\"centroids\"]))\ndef update_bee(bee, k, dimensions, data, metric):\n    new_centroids = generate_new_centroids(bee, k, dimensions)\n    new_fit = fitness(data, new_centroids, metric)\n    if new_fit < bee[\"fit\"]:\n        bee = new_bee(new_centroids, new_fit)",
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "generate_new_centroids",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "peekOfCode": "def generate_new_centroids(original, updater, dimensions):\n    phi = np.random.uniform(-1, 1, dimensions)\n    return original[\"centroids\"] + (phi * np.subtract(original[\"centroids\"], updater[\"centroids\"]))\ndef update_bee(bee, k, dimensions, data, metric):\n    new_centroids = generate_new_centroids(bee, k, dimensions)\n    new_fit = fitness(data, new_centroids, metric)\n    if new_fit < bee[\"fit\"]:\n        bee = new_bee(new_centroids, new_fit)\n    else:\n        bee[\"discards\"] += 1",
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "update_bee",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "peekOfCode": "def update_bee(bee, k, dimensions, data, metric):\n    new_centroids = generate_new_centroids(bee, k, dimensions)\n    new_fit = fitness(data, new_centroids, metric)\n    if new_fit < bee[\"fit\"]:\n        bee = new_bee(new_centroids, new_fit)\n    else:\n        bee[\"discards\"] += 1\n    return bee\ndef abc(data, num_bees=30, num_of_clusters=3, max_iterations=50, metric='euclidean', discard_limit=20):\n    \"\"\"",
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "abc",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.abc",
+        "description": "src.metaheuristic_clustering.abc",
+        "peekOfCode": "def abc(data, num_bees=30, num_of_clusters=3, max_iterations=50, metric='euclidean', discard_limit=20):\n    \"\"\"\n    :param data: the data to be clustered\n    :param num_bees: the number of bees  - this is the number of potential solutions to be considered at one time\n    :param num_of_clusters: the number of clusters (k)\n    :param max_iterations: the max number of iterations\n    :param metric: can only be Euclidean distance atm\n    :param discard_limit: the max number of times for a bee to not improve before being re-created\n    :return: The best solution after the max number of iterations\n    \"\"\"",
+        "detail": "src.metaheuristic_clustering.abc",
+        "documentation": {}
+    },
+    {
+        "label": "SFLAClustering",
+        "kind": 6,
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "peekOfCode": "class SFLAClustering(BaseEstimator, ClusterMixin):\n    \"\"\"\n    Creates clusters based on the Shuffled Frog Leaping Algorithm\n    Based on the paper:\n    M. Fathian, B. Amiri, and A. Maroosi, \"Application of honey-bee mating optimization algorithm on clustering,\"\n    Applied Mathematics and Computation, vol. 190, no. 2, pp. 1502-1513, 2007 2007.\n    And referenced implementations:\n    https://github.com/theDIG95/Shuffled-frog-leaping-algorithm/\n    https://github.com/LubnaAlhenaki/Genetic-Frog-Leaping-Algorithm-for-Text-Document-Clustering/\n    \"\"\"",
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "generate_frog",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "peekOfCode": "def generate_frog(data, num_of_clusters, metric):\n    centroids = rand_init(data, num_of_clusters).initialize()  # can also use k_init for kmeans++ initalisation\n    fit = fitness(data, centroids, metric)\n    # Todo: give it a uuid for determine if same frog is best multiple times\n    return {\"centroids\": centroids,\n            \"fit\": fit}\ndef generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_frog(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef rank_frogs(frogs):\n    sorted_acs = sorted(frogs, key=lambda k: k[\"fit\"])",
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "generate_population",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "peekOfCode": "def generate_population(data, num_of_frogs, num_of_clusters, metric):\n    return [generate_frog(data, num_of_clusters, metric) for i in range(num_of_frogs)]\ndef rank_frogs(frogs):\n    sorted_acs = sorted(frogs, key=lambda k: k[\"fit\"])\n    return sorted_acs\ndef create_memeplexes(frogs, num_of_memeplexes):\n    ranked_frogs = rank_frogs(frogs)\n    return ranked_frogs[0], [ranked_frogs[i::num_of_memeplexes] for i in range(num_of_memeplexes)]\ndef evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]",
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "rank_frogs",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "peekOfCode": "def rank_frogs(frogs):\n    sorted_acs = sorted(frogs, key=lambda k: k[\"fit\"])\n    return sorted_acs\ndef create_memeplexes(frogs, num_of_memeplexes):\n    ranked_frogs = rank_frogs(frogs)\n    return ranked_frogs[0], [ranked_frogs[i::num_of_memeplexes] for i in range(num_of_memeplexes)]\ndef evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]\n    best_centroids = best_frog[\"centroids\"]\n    new_centroids = worst_centroids + (np.random.rand() * np.subtract(best_centroids, worst_centroids))",
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "create_memeplexes",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "peekOfCode": "def create_memeplexes(frogs, num_of_memeplexes):\n    ranked_frogs = rank_frogs(frogs)\n    return ranked_frogs[0], [ranked_frogs[i::num_of_memeplexes] for i in range(num_of_memeplexes)]\ndef evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]\n    best_centroids = best_frog[\"centroids\"]\n    new_centroids = worst_centroids + (np.random.rand() * np.subtract(best_centroids, worst_centroids))\n    fit = fitness(data, new_centroids, metric)\n    return {\"centroids\": new_centroids, \"fit\": fit}\ndef sfla(data, num_of_frogs=30, num_of_clusters=3, num_of_memeplexes=5, memeplex_iterations=10, max_iterations=50,",
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "evolve",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "peekOfCode": "def evolve(worst_frog, best_frog, data, metric):\n    worst_centroids = worst_frog[\"centroids\"]\n    best_centroids = best_frog[\"centroids\"]\n    new_centroids = worst_centroids + (np.random.rand() * np.subtract(best_centroids, worst_centroids))\n    fit = fitness(data, new_centroids, metric)\n    return {\"centroids\": new_centroids, \"fit\": fit}\ndef sfla(data, num_of_frogs=30, num_of_clusters=3, num_of_memeplexes=5, memeplex_iterations=10, max_iterations=50,\n         metric='euclidean'):\n    \"\"\"\n    :param data:",
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "sfla",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.sfla",
+        "description": "src.metaheuristic_clustering.sfla",
+        "peekOfCode": "def sfla(data, num_of_frogs=30, num_of_clusters=3, num_of_memeplexes=5, memeplex_iterations=10, max_iterations=50,\n         metric='euclidean'):\n    \"\"\"\n    :param data:\n    :param num_of_frogs: Total number of frogs (F)\n    :param num_of_clusters: How many clusters are desired (k)\n    :param num_of_memeplexes: Number of memeplexes (m)\n    :param memeplex_iterations: Number of memeplex iterations (iN)\n    :param max_iterations: Maximum number of iterations before the algorithm will terminate\n    :param metric: possible values: euclidean",
+        "detail": "src.metaheuristic_clustering.sfla",
+        "documentation": {}
+    },
+    {
+        "label": "get_euclidean_distance",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.util",
+        "description": "src.metaheuristic_clustering.util",
+        "peekOfCode": "def get_euclidean_distance(row, centroids):\n    \"\"\" Calculates the euclidean distance between a row and each centroid \"\"\"\n    return [np.linalg.norm(row - centroid) for centroid in centroids]\ndef get_centroid_labels(data, centroids):\n    \"\"\" Assigns each data point to its closest centroid based on euclidean distance \"\"\"\n    labels = []\n    for row in data:\n        distances = get_euclidean_distance(row, centroids)\n        min_distance = min(distances)\n        index = distances.index(min_distance)",
+        "detail": "src.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_centroid_labels",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.util",
+        "description": "src.metaheuristic_clustering.util",
+        "peekOfCode": "def get_centroid_labels(data, centroids):\n    \"\"\" Assigns each data point to its closest centroid based on euclidean distance \"\"\"\n    labels = []\n    for row in data:\n        distances = get_euclidean_distance(row, centroids)\n        min_distance = min(distances)\n        index = distances.index(min_distance)\n        labels.append(index)\n    return labels\ndef get_labels(data, element):",
+        "detail": "src.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_labels",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.util",
+        "description": "src.metaheuristic_clustering.util",
+        "peekOfCode": "def get_labels(data, element):\n    return get_centroid_labels(data, element[\"centroids\"])\ndef euclidean_fitness(data, centroids):\n    \"\"\" Calculates the average distance between each data point and it's closest cluster center \"\"\"\n    total_distance = 0\n    dimensions = data.shape[1]\n    for row in data:\n        # calculate the euclidean distance between each row and each centroid\n        distances = get_euclidean_distance(row, centroids)\n        # use the centroid the row is closest to",
+        "detail": "src.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "euclidean_fitness",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.util",
+        "description": "src.metaheuristic_clustering.util",
+        "peekOfCode": "def euclidean_fitness(data, centroids):\n    \"\"\" Calculates the average distance between each data point and it's closest cluster center \"\"\"\n    total_distance = 0\n    dimensions = data.shape[1]\n    for row in data:\n        # calculate the euclidean distance between each row and each centroid\n        distances = get_euclidean_distance(row, centroids)\n        # use the centroid the row is closest to\n        total_distance += min(distances)\n    # get the average distance",
+        "detail": "src.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "fitness",
+        "kind": 2,
+        "importPath": "src.metaheuristic_clustering.util",
+        "description": "src.metaheuristic_clustering.util",
+        "peekOfCode": "def fitness(data, centroids, metric):\n    \"\"\"\n    Calculates how well a set of centroids fit a data set based on a metric\n    Currently only supports Euclidean distance - the average distance between each data point and it's closest cluster center\n    \"\"\"\n    fit = None\n    if metric == 'euclidean':\n        fit = euclidean_fitness(data, centroids)\n    return fit",
+        "detail": "src.metaheuristic_clustering.util",
+        "documentation": {}
+    },
+    {
+        "label": "show_results",
+        "kind": 2,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "def show_results(model):\n    plt.figure(figsize=(18, 12))\n    plt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,\n                        hspace=.01)\n    plot_num = 1\n    for dataset in test_datasets:\n        X, y = dataset\n        X = StandardScaler().fit_transform(X)\n        t0 = time.time()\n        labels = model.fit_predict(X)",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "n_samples",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "n_samples = 1500\nnoisy_circles = datasets.make_circles(n_samples=n_samples, factor=.5,\n                                      noise=.05)\nnoisy_moons = datasets.make_moons(n_samples=n_samples, noise=.05)\nblobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "noisy_circles",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "noisy_circles = datasets.make_circles(n_samples=n_samples, factor=.5,\n                                      noise=.05)\nnoisy_moons = datasets.make_moons(n_samples=n_samples, noise=.05)\nblobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "noisy_moons",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "noisy_moons = datasets.make_moons(n_samples=n_samples, noise=.05)\nblobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "blobs",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "blobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "no_structure",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "no_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "random_state",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "random_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "transformation",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "transformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\ndef show_results(model):\n    plt.figure(figsize=(18, 12))",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "X_aniso",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "X_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\ndef show_results(model):\n    plt.figure(figsize=(18, 12))\n    plt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "aniso",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "aniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\ndef show_results(model):\n    plt.figure(figsize=(18, 12))\n    plt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,\n                        hspace=.01)",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "varied",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "varied = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\ndef show_results(model):\n    plt.figure(figsize=(18, 12))\n    plt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,\n                        hspace=.01)\n    plot_num = 1\n    for dataset in test_datasets:",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "test_datasets",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "test_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\ndef show_results(model):\n    plt.figure(figsize=(18, 12))\n    plt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,\n                        hspace=.01)\n    plot_num = 1\n    for dataset in test_datasets:\n        X, y = dataset\n        X = StandardScaler().fit_transform(X)\n        t0 = time.time()",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "abc_model",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "abc_model = ABCClustering()\nshow_results(abc_model)\nfrom src.metaheuristic_clustering.sfla import SFLAClustering\nsfla_model = SFLAClustering()\nshow_results(sfla_model)",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "sfla_model",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "sfla_model = SFLAClustering()\nshow_results(sfla_model)",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "n_samples",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "n_samples = 1500\nnoisy_circles = datasets.make_circles(n_samples=n_samples, factor=.5,\n                                      noise=.05)\nnoisy_moons = datasets.make_moons(n_samples=n_samples, noise=.05)\nblobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "noisy_circles",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "noisy_circles = datasets.make_circles(n_samples=n_samples, factor=.5,\n                                      noise=.05)\nnoisy_moons = datasets.make_moons(n_samples=n_samples, noise=.05)\nblobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "noisy_moons",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "noisy_moons = datasets.make_moons(n_samples=n_samples, noise=.05)\nblobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "blobs",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "blobs = datasets.make_blobs(n_samples=n_samples, random_state=8)\nno_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "no_structure",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "no_structure = np.random.rand(n_samples, 2), None\n# Anisotropicly distributed data\nrandom_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "random_state",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "random_state = 170\nX, y = datasets.make_blobs(n_samples=n_samples, random_state=random_state)\ntransformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "transformation",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "transformation = [[0.6, -0.6], [-0.4, 0.8]]\nX_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\nfrom src.metaheuristic_clustering.abc import ABCClustering\nplt.figure(figsize=(9 * 2 + 3, 12.5))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "X_aniso",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "X_aniso = np.dot(X, transformation)\naniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\nfrom src.metaheuristic_clustering.abc import ABCClustering\nplt.figure(figsize=(9 * 2 + 3, 12.5))\nplt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "aniso",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "aniso = (X_aniso, y)\n# blobs with varied variances\nvaried = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\nfrom src.metaheuristic_clustering.abc import ABCClustering\nplt.figure(figsize=(9 * 2 + 3, 12.5))\nplt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,\n                    hspace=.01)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "varied",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "varied = datasets.make_blobs(n_samples=n_samples,\n                             cluster_std=[1.0, 2.5, 0.5],\n                             random_state=random_state)\ntest_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\nfrom src.metaheuristic_clustering.abc import ABCClustering\nplt.figure(figsize=(9 * 2 + 3, 12.5))\nplt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,\n                    hspace=.01)\nplot_num = 1\nfor dataset in test_datasets:",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "test_datasets",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "test_datasets = [noisy_circles, noisy_moons, blobs, no_structure, varied, aniso]\nfrom src.metaheuristic_clustering.abc import ABCClustering\nplt.figure(figsize=(9 * 2 + 3, 12.5))\nplt.subplots_adjust(left=.02, right=.98, bottom=.001, top=.96, wspace=.05,\n                    hspace=.01)\nplot_num = 1\nfor dataset in test_datasets:\n    X, y = dataset\n    X = StandardScaler().fit_transform(X)\n    abc_model = ABCClustering(max_iterations=5)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "plot_num",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "plot_num = 1\nfor dataset in test_datasets:\n    X, y = dataset\n    X = StandardScaler().fit_transform(X)\n    abc_model = ABCClustering(max_iterations=5)\n    t0 = time.time()\n    labels = abc_model.fit_predict(X)\n    t1 = time.time()\n    print(labels)\n    plt.subplot(2, 3, plot_num)",
+        "detail": "test",
+        "documentation": {}
+    }
+]
